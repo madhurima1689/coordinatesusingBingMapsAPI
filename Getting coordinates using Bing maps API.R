@@ -13,7 +13,7 @@ library(data.table)
 devtools::install_github("gsk3/taRifx.geo")
 library(taRifx.geo)
 options(BingMapsKey='AmQ2wYrNc-ifHwCws5q0J0nynWSokmRzu-49B53Esp-Hq7x5STo_XbLVw0GOgPc0')
-
+#You can generate your own Bing Mapis API key from here - https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key
 final=data.frame()
 temp.df=data.frame()
 for (i in 1:nrow(places)) 
