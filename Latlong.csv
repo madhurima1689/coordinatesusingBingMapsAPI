@@ -1,0 +1,312 @@
+place,state
+Helsinki,Uusimaa
+Espoo,Uusimaa
+Tampere,Pirkanmaa
+Vantaa,Uusimaa
+Oulu,North Ostrobothnia
+Turku,Southwest Finland
+Jyvaskyla,Central Finland
+Lahti,Paijat Hame
+Kuopio,Northern Savonia
+Pori,Satakunta
+Kouvola,Kymenlaakso
+Joensuu,North Karelia
+Lappeenranta,South Karelia
+Vaasa,Ostrobothnia
+Hameenlinna,Kanta Hame
+Seinajoki,South Ostrobothnia
+Rovaniemi,Lapland
+Mikkeli,Southern Savonia
+Kotka,Kymenlaakso
+Salo,Southwest Finland
+Porvoo,Uusimaa
+Kokkola,Central Ostrobothnia
+Hyvinkaa,Uusimaa
+Lohja,Uusimaa
+Jarvenpaa,Uusimaa
+Nurmijarvi,Uusimaa
+Rauma,Satakunta
+Kirkkonummi,Uusimaa
+Tuusula,Uusimaa
+Kajaani,Kainuu
+Kerava,Uusimaa
+Savonlinna,Southern Savonia
+Nokia,Pirkanmaa
+Kaarina,Southwest Finland
+Ylojarvi,Pirkanmaa
+Kangasala,Pirkanmaa
+Vihti,Uusimaa
+Riihimaki,Kanta Hame
+Raasepori,Uusimaa
+Imatra,South Karelia
+Raahe,North Ostrobothnia
+Sastamala,Pirkanmaa
+Raisio,Southwest Finland
+Hollola,Paijat Hame
+Lempaala,Pirkanmaa
+Tornio,Lapland
+Siilinjarvi,Northern Savonia
+Iisalmi,Northern Savonia
+Valkeakoski,Pirkanmaa
+Kemi,Lapland
+Kurikka,South Ostrobothnia
+Varkaus,Northern Savonia
+Mantsala,Uusimaa
+Sipoo,Uusimaa
+Jamsa,Central Finland
+Hamina,Kymenlaakso
+Lieto,Southwest Finland
+Korsholm,Ostrobothnia
+Pirkkala,Pirkanmaa
+Jakobstad,Ostrobothnia
+Naantali,Southwest Finland
+Laukaa,Central Finland
+Heinola,Paijat Hame
+Aanekoski,Central Finland
+Pieksamaki,Southern Savonia
+Kempele,North Ostrobothnia
+Forssa,Kanta Hame
+Akaa,Pirkanmaa
+Janakkala,Kanta Hame
+Orimattila,Paijat Hame
+Loimaa,Southwest Finland
+Kauhava,South Ostrobothnia
+Uusikaupunki,Southwest Finland
+Pargas,Southwest Finland
+Ylivieska,North Ostrobothnia
+Kuusamo,North Ostrobothnia
+Loviisa,Uusimaa
+Kontiolahti,North Karelia
+Lapua,South Ostrobothnia
+Kauhajoki,South Ostrobothnia
+Ulvila,Satakunta
+Kalajoki,North Ostrobothnia
+Ilmajoki,South Ostrobothnia
+Liperi,North Karelia
+Eura,Satakunta
+Mariehamn,Aland
+Alavus,South Ostrobothnia
+Kankaanpaa,Satakunta
+Lieksa,North Karelia
+Pedersore,Ostrobothnia
+Paimio,Southwest Finland
+Nivala,North Ostrobothnia
+Hameenkyro,Pirkanmaa
+Sotkamo,Kainuu
+Kitee,North Karelia
+Muurame,Central Finland
+Liminka,North Ostrobothnia
+Huittinen,Satakunta
+Mantta Vilppula,Pirkanmaa
+Ii,North Ostrobothnia
+Keuruu,Central Finland
+Alajarvi,South Ostrobothnia
+Leppavirta,Northern Savonia
+Lapinlahti,Northern Savonia
+Kauniainen,Uusimaa
+Masku,Southwest Finland
+Hattula,Kanta Hame
+Narpes,Ostrobothnia
+Eurajoki,Satakunta
+Saarijarvi,Central Finland
+Orivesi,Pirkanmaa
+Muhos,North Ostrobothnia
+Somero,Southwest Finland
+Karkkila,Uusimaa
+Laitila,Southwest Finland
+Sodankyla,Lapland
+Hausjarvi,Kanta Hame
+Hanko,Uusimaa
+Poytya,Southwest Finland
+Kuhmo,Kainuu
+Kiuruvesi,Northern Savonia
+Asikkala,Paijat Hame
+Keminmaa,Lapland
+Laihia,Ostrobothnia
+Pudasjarvi,North Ostrobothnia
+Suomussalmi,Kainuu
+Loppi,Kanta Hame
+Mynamaki,Southwest Finland
+Nurmes,North Karelia
+Nykarleby,Ostrobothnia
+Oulainen,North Ostrobothnia
+Kemijarvi,Lapland
+Kokemaki,Satakunta
+Haapajarvi,North Ostrobothnia
+Suonenjoki,Northern Savonia
+Harjavalta,Satakunta
+Ikaalinen,Pirkanmaa
+Inari,Lapland
+Haapavesi,North Ostrobothnia
+Sakyla,Satakunta
+Outokumpu,North Karelia
+Iitti,Kymenlaakso
+Tyrnava,North Ostrobothnia
+Virrat,Pirkanmaa
+Kimitoon,Southwest Finland
+Voyri,Ostrobothnia
+Kristinestad,Ostrobothnia
+Kronoby,Ostrobothnia
+Palkane,Pirkanmaa
+Parkano,Pirkanmaa
+Kittila,Lapland
+Viitasaari,Central Finland
+Rusko,Southwest Finland
+Juva,Southern Savonia
+Siuntio,Uusimaa
+Tammela,Kanta Hame
+Mantyharju,Southern Savonia
+Ahtari,South Ostrobothnia
+Kannus,Central Ostrobothnia
+Malax,Ostrobothnia
+Kangasniemi,Southern Savonia
+Nakkila,Satakunta
+Inga,Uusimaa
+Larsmo,Ostrobothnia
+Siikalatva,North Ostrobothnia
+Siikajoki,North Ostrobothnia
+Pyhajarvi,North Ostrobothnia
+Jokioinen,Kanta Hame
+Pyhtaa,Kymenlaakso
+Teuva,South Ostrobothnia
+Ruokolahti,South Karelia
+Pornainen,Uusimaa
+Jomala,Aland
+Sievi,North Ostrobothnia
+Ilomantsi,North Karelia
+Askola,Uusimaa
+Hankasalmi,Central Finland
+Parikkala,South Karelia
+Joroinen,Southern Savonia
+Urjala,Pirkanmaa
+Nousiainen,Southwest Finland
+Taipalsaari,South Karelia
+Juuka,North Karelia
+Luumaki,South Karelia
+Isokyro,Ostrobothnia
+Pielavesi,Northern Savonia
+Tohmajarvi,North Karelia
+Joutsa,Central Finland
+Karkola,Paijat Hame
+Ruovesi,Pirkanmaa
+Vesilahti,Pirkanmaa
+Polvijarvi,North Karelia
+Kaustinen,Central Ostrobothnia
+Pihtipudas,Central Finland
+Karstula,Central Finland
+Taivalkoski,North Ostrobothnia
+Ylitornio,Lapland
+Aura,Southwest Finland
+Sonkajarvi,Northern Savonia
+Petajavesi,Central Finland
+Ranua,Lapland
+Kolari,Lapland
+Uurainen,Central Finland
+Sysma,Paijat Hame
+Vierema,Northern Savonia
+Kuortane,South Ostrobothnia
+Rantasalmi,Southern Savonia
+Salla,Lapland
+Pello,Lapland
+Savitaipale,South Karelia
+Paltamo,Kainuu
+Rautjarvi,South Karelia
+Heinavesi,Southern Savonia
+Posio,Lapland
+Rautalampi,Northern Savonia
+Veteli,Central Ostrobothnia
+Virolahti,Kymenlaakso
+Pyhajoki,North Ostrobothnia
+Merikarvia,Satakunta
+Toholampi,Central Ostrobothnia
+Lappajarvi,South Ostrobothnia
+Tervola,Lapland
+Simo,Lapland
+Lemi,South Karelia
+Sauvo,Southwest Finland
+Kaavi,Northern Savonia
+Padasjoki,Paijat Hame
+Vimpeli,South Ostrobothnia
+Punkalaidun,Pirkanmaa
+Vaala,North Ostrobothnia
+Perho,Central Ostrobothnia
+Hartola,Paijat Hame
+Reisjarvi,North Ostrobothnia
+Utajarvi,North Ostrobothnia
+Konnevesi,Central Finland
+Lapinjarvi,Uusimaa
+Karsamaki,North Ostrobothnia
+Puolanka,Kainuu
+Finstrom,Aland
+Alavieska,North Ostrobothnia
+Tuusniemi,Northern Savonia
+Sulkava,Southern Savonia
+Evijarvi,South Ostrobothnia
+Toivakka,Central Finland
+Karvia,Satakunta
+Ypaja,Kanta Hame
+Koski Tl,Southwest Finland
+Muonio,Lapland
+Hyrynsalmi,Kainuu
+Vehmaa,Southwest Finland
+Keitele,Northern Savonia
+Kuhmoinen,Central Finland
+Humppila,Kanta Hame
+Puumala,Southern Savonia
+Raakkyla,North Karelia
+Hirvensalmi,Southern Savonia
+Pomarkku,Satakunta
+Valtimo,North Karelia
+Korsnas,Ostrobothnia
+Soini,South Ostrobothnia
+Vesanto,Northern Savonia
+Lumijoki,North Ostrobothnia
+Lemland,Aland
+Pyharanta,Southwest Finland
+Marttila,Southwest Finland
+Isojoki,South Ostrobothnia
+Miehikkala,Kymenlaakso
+Myrskyla,Uusimaa
+Kihnio,Pirkanmaa
+Pukkila,Uusimaa
+Juupajoki,Pirkanmaa
+Saltvik,Aland
+Enontekio,Lapland
+Jamijarvi,Satakunta
+Pertunmaa,Southern Savonia
+Honkajoki,Satakunta
+Taivassalo,Southwest Finland
+Rautavaara,Northern Savonia
+Kinnula,Central Finland
+Multia,Central Finland
+Hammarland,Aland
+Tervo,Northern Savonia
+Pyhanta,North Ostrobothnia
+Siikainen,Satakunta
+Enonkoski,Southern Savonia
+Oripaa,Southwest Finland
+Kannonkoski,Central Finland
+Kyyjarvi,Central Finland
+Ristijarvi,Kainuu
+Karijoki,South Ostrobothnia
+Kaskinen,Ostrobothnia
+Utsjoki,Lapland
+Halsua,Central Ostrobothnia
+Merijarvi,North Ostrobothnia
+Kivijarvi,Central Finland
+Sund,Aland
+Savukoski,Lapland
+Hailuoto,North Ostrobothnia
+Eckero,Aland
+Pelkosenniemi,Lapland
+Kustavi,Southwest Finland
+Lestijarvi,Central Ostrobothnia
+Luhanka,Central Finland
+Foglo,Aland
+Geta,Aland
+Brando,Aland
+Vardo,Aland
+Lumparland,Aland
+Kumlinge,Aland
+Kokar,Aland
+Sottunga,Aland
